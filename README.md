@@ -11,17 +11,23 @@
 </p>
 </div>
 
-<h2>About me</h2>
-<p>I'm a <b>B.Tech Information Technology</b> student from Tamil Nadu. I learn by building and shipping real products: AI chatbots, dashboards, voice tools and learning platforms. I care about clean UI, good UX and code that works in production.</p>
+<h2 align="center">About me</h2>
+<div align="center">
+<p>I'm a <b>B.Tech Information Technology</b> student from Tamil Nadu.<br/>
+I learn by building and shipping real products: AI chatbots, dashboards, voice tools and learning platforms.<br/>
+I care about clean UI, good UX and code that works in production.</p>
 <table>
-<tr><td align="left" valign="top"><b>Building</b></td><td align="left" valign="top">AI chatbots, voice assistants, dashboards and web apps</td></tr>
-<tr><td align="left" valign="top"><b>Learning</b></td><td align="left" valign="top">AWS, Docker and DevOps fundamentals</td></tr>
-<tr><td align="left" valign="top"><b>Next up</b></td><td align="left" valign="top">System Design and AI Agents</td></tr>
-<tr><td align="left" valign="top"><b>Ask me about</b></td><td align="left" valign="top">React, TypeScript, Gemini API, RAG systems, Web Speech API</td></tr>
-<tr><td align="left" valign="top"><b>Portfolio</b></td><td align="left" valign="top"><a href="https://rakesh-portfolio08.vercel.app/">rakesh-portfolio08.vercel.app</a></td></tr>
+<tr>
+<td align="center" valign="top" width="25%"><b>Building</b><br/><br/>AI chatbots, voice assistants, dashboards and web apps</td>
+<td align="center" valign="top" width="25%"><b>Learning</b><br/><br/>AWS, Docker and DevOps fundamentals</td>
+<td align="center" valign="top" width="25%"><b>Next up</b><br/><br/>System Design and AI Agents</td>
+<td align="center" valign="top" width="25%"><b>Ask me about</b><br/><br/>React, TypeScript, Gemini API, RAG systems, Web Speech API</td>
+</tr>
 </table>
+<p><a href="https://rakesh-portfolio08.vercel.app/"><b>rakesh-portfolio08.vercel.app</b></a></p>
+</div>
 
-<h2>Featured projects</h2>
+<h2 align="center">Featured projects</h2>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -92,43 +98,44 @@
 <a href="https://github.com/MRakesh8?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-24292f?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 </div>
 
-<h2>Tech stack</h2>
-<table>
-<tr><td align="left" valign="top"><b>Languages</b></td><td align="left" valign="top"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=light"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=dark" alt="Languages"/></picture></td></tr>
-<tr><td align="left" valign="top"><b>Frontend</b></td><td align="left" valign="top"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/></picture></td></tr>
-<tr><td align="left" valign="top"><b>Backend and data</b></td><td align="left" valign="top"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend"/></picture></td></tr>
-<tr><td align="left" valign="top"><b>Tools and hosting</b></td><td align="left" valign="top"><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=light"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/></picture></td></tr>
-<tr><td align="left" valign="top"><b>AI</b></td><td align="left" valign="top">Gemini API · RAG systems · AI chatbots · Voice assistants</td></tr>
-</table>
 
-<h2>GitHub activity</h2>
+<h2 align="center">Tech stack</h2>
+<div align="center">
+<p><sub><b>LANGUAGES</b></sub><br/><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=light"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=dark" alt="Languages"/></picture></p>
+<p><sub><b>FRONTEND</b></sub><br/><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=light"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/></picture></p>
+<p><sub><b>BACKEND AND DATA</b></sub><br/><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend"/></picture></p>
+<p><sub><b>TOOLS AND HOSTING</b></sub><br/><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=light"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/></picture></p>
+<p><sub><b>AI</b></sub><br/>Gemini API &nbsp;·&nbsp; RAG systems &nbsp;·&nbsp; AI chatbots &nbsp;·&nbsp; Voice assistants</p>
+</div>
+
+<h2 align="center">GitHub activity</h2>
 <div align="center">
 <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MRakesh8&show_icons=true&hide_rank=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=00000000"><img height="165" src="https://github-readme-stats.vercel.app/api?username=MRakesh8&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=00000000" alt="GitHub stats"/></picture>
 <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MRakesh8&layout=compact&hide_border=true&title_color=0969da&text_color=24292f&bg_color=00000000"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRakesh8&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Top languages"/></picture>
 </div>
 
-<h2>Learning roadmap</h2>
-<table>
-<tr><th align="left" valign="top">Focus</th><th align="left" valign="top">Status</th><th align="left" valign="top">What I'm doing</th></tr>
-<tr><td align="left" valign="top"><b>AWS</b></td><td align="left" valign="top"><img src="https://img.shields.io/badge/-Exploring-f59e0b?style=flat-square" alt="Exploring"/></td><td align="left" valign="top">Core cloud services and deployment fundamentals</td></tr>
-<tr><td align="left" valign="top"><b>Docker</b></td><td align="left" valign="top"><img src="https://img.shields.io/badge/-Exploring-f59e0b?style=flat-square" alt="Exploring"/></td><td align="left" valign="top">Containerization and consistent environments</td></tr>
-<tr><td align="left" valign="top"><b>DevOps</b></td><td align="left" valign="top"><img src="https://img.shields.io/badge/-Learning-2563eb?style=flat-square" alt="Learning"/></td><td align="left" valign="top">CI/CD, automation and deployment workflows</td></tr>
-<tr><td align="left" valign="top"><b>System Design</b></td><td align="left" valign="top"><img src="https://img.shields.io/badge/-Next%20focus-7c3aed?style=flat-square" alt="Next focus"/></td><td align="left" valign="top">How scalable applications are structured</td></tr>
-<tr><td align="left" valign="top"><b>AI Agents</b></td><td align="left" valign="top"><img src="https://img.shields.io/badge/-Future-64748b?style=flat-square" alt="Future"/></td><td align="left" valign="top">Autonomous workflows and tool usage</td></tr>
-</table>
 
-<h2>Certifications</h2>
+<h2 align="center">Learning roadmap</h2>
+<div align="center">
 <table>
-<tr><th align="left" valign="top">Certification</th><th align="left" valign="top">Issuer</th><th align="left" valign="top">Date</th></tr>
-<tr><td align="left" valign="top">Python Programming</td><td align="left" valign="top">Spoken Tutorial, IIT Bombay</td><td align="left" valign="top">Nov 2025</td></tr>
-<tr><td align="left" valign="top">Programming in Java</td><td align="left" valign="top">NPTEL</td><td align="left" valign="top">Nov 2025</td></tr>
-<tr><td align="left" valign="top">UI/UX Designing</td><td align="left" valign="top">Simplilearn</td><td align="left" valign="top">Aug 2025</td></tr>
-<tr><td align="left" valign="top">Generative AI Studio</td><td align="left" valign="top">Simplilearn</td><td align="left" valign="top">Aug 2025</td></tr>
-<tr><td align="left" valign="top">AI Agent for Beginners</td><td align="left" valign="top">Simplilearn</td><td align="left" valign="top">Aug 2025</td></tr>
-<tr><td align="left" valign="top">C++ Programming</td><td align="left" valign="top">Spoken Tutorial, IIT Bombay</td><td align="left" valign="top">May 2025</td></tr>
+<tr><th align="center">Focus</th><th align="center">Status</th><th align="center">What I'm doing</th></tr>
+<tr><td align="center"><b>AWS</b></td><td align="center"><img src="https://img.shields.io/badge/-Exploring-f59e0b?style=flat-square" alt="Exploring"/></td><td align="center">Core cloud services and deployment fundamentals</td></tr>
+<tr><td align="center"><b>Docker</b></td><td align="center"><img src="https://img.shields.io/badge/-Exploring-f59e0b?style=flat-square" alt="Exploring"/></td><td align="center">Containerization and consistent environments</td></tr>
+<tr><td align="center"><b>DevOps</b></td><td align="center"><img src="https://img.shields.io/badge/-Learning-2563eb?style=flat-square" alt="Learning"/></td><td align="center">CI/CD, automation and deployment workflows</td></tr>
+<tr><td align="center"><b>System Design</b></td><td align="center"><img src="https://img.shields.io/badge/-Next%20focus-7c3aed?style=flat-square" alt="Next focus"/></td><td align="center">How scalable applications are structured</td></tr>
+<tr><td align="center"><b>AI Agents</b></td><td align="center"><img src="https://img.shields.io/badge/-Future-64748b?style=flat-square" alt="Future"/></td><td align="center">Autonomous workflows and tool usage</td></tr>
 </table>
+</div>
 
-<h2>Contact</h2>
+<h2 align="center">Certifications</h2>
+<div align="center">
+<table>
+<tr><td align="center" valign="top" width="33%"><b>Python Programming</b><br/>Spoken Tutorial, IIT Bombay<br/><sub>Nov 2025</sub></td><td align="center" valign="top" width="33%"><b>Programming in Java</b><br/>NPTEL<br/><sub>Nov 2025</sub></td><td align="center" valign="top" width="33%"><b>UI/UX Designing</b><br/>Simplilearn<br/><sub>Aug 2025</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><b>Generative AI Studio</b><br/>Simplilearn<br/><sub>Aug 2025</sub></td><td align="center" valign="top" width="33%"><b>AI Agent for Beginners</b><br/>Simplilearn<br/><sub>Aug 2025</sub></td><td align="center" valign="top" width="33%"><b>C++ Programming</b><br/>Spoken Tutorial, IIT Bombay<br/><sub>May 2025</sub></td></tr>
+</table>
+</div>
+
+<h2 align="center">Contact</h2>
 <div align="center">
 <p>I'm open to <b>internships, collaborations and interesting projects</b>.</p>
 <p>
