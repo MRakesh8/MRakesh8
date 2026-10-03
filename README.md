@@ -31,9 +31,9 @@ I care about clean UI, good UX and code that works in production.</p>
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://chatbot-rakesh.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/chatbot.svg" width="100%" alt="AI Chatbot Assistant"/></a>
+<a href="https://chatbot-rakesh.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/chatbot.jpg" width="100%" alt="AI Chatbot Assistant"/></a>
 <h3>AI Chatbot Assistant</h3>
-<p>Conversational interface with fast responses and clear loading states, powered by the Gemini API.</p>
+<p>NOVA AI, a business agent workspace: chat to analyze a website, review leads and conversations, connect integrations and automate follow-ups.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Gemini%20API-4285f4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/></p>
 <p><a href="https://chatbot-rakesh.vercel.app/"><b>Live Website</b></a> &nbsp;·&nbsp; <a href="https://github.com/MRakesh8/Chat-Bot">Source Code</a></p>
 </td>
@@ -47,25 +47,25 @@ I care about clean UI, good UX and code that works in production.</p>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://psychology-insight.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/psychology.svg" width="100%" alt="Psychology Insight"/></a>
+<a href="https://psychology-insight.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/psychology.jpg" width="100%" alt="Psychology Insight"/></a>
 <h3>Psychology Insight</h3>
 <p>Clinic web portal with self-assessment forms and responsive booking controls in a calm, accessible UI.</p>
 <p><img src="https://img.shields.io/badge/React-149eca?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></p>
 <p><a href="https://psychology-insight.vercel.app/"><b>Live Website</b></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://voice-assistant-three-phi.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/voice.svg" width="100%" alt="Voice Assistant"/></a>
+<a href="https://voice-assistant-three-phi.vercel.app/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/voice.jpg" width="100%" alt="Voice Assistant"/></a>
 <h3>Voice Assistant</h3>
-<p>Browser-based voice command parser that interprets speech and triggers UI actions with the Web Speech API.</p>
+<p>RS Assistant, a bilingual (English + Tamil) voice assistant with a live command log and quick launch for YouTube, Google, WhatsApp, Gmail and more.</p>
 <p><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Web%20Speech%20API-1e40af?style=flat-square" alt="Web Speech API"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></p>
 <p><a href="https://voice-assistant-three-phi.vercel.app/"><b>Live Website</b></a> &nbsp;·&nbsp; <a href="https://github.com/MRakesh8/VA1">Source Code</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mrakesh8.github.io/Smart_Farm/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/smartfarm.svg" width="100%" alt="Smart Farm"/></a>
-<h3>Smart Farm</h3>
-<p>Agriculture dashboard concept for soil analytics, crop recommendations and sensor telemetry.</p>
+<a href="https://mrakesh8.github.io/Smart_Farm/"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/smartfarm.jpg" width="100%" alt="Smart Farm"/></a>
+<h3>Smart Farm (SmartCrop)</h3>
+<p>Tamil Nadu farming platform with live weather, market prices, AI crop advice and government schemes, in English and Tamil.</p>
 <p><img src="https://img.shields.io/badge/React-149eca?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/IoT-0f172a?style=flat-square" alt="IoT"/></p>
 <p><a href="https://mrakesh8.github.io/Smart_Farm/"><b>Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/MRakesh8/Smart_Farm">Source Code</a></p>
 </td>
@@ -79,7 +79,7 @@ I care about clean UI, good UX and code that works in production.</p>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://suriya-portfolio-tvkbrothers.vercel.app"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/video.svg" width="100%" alt="Video Editor Portfolio"/></a>
+<a href="https://suriya-portfolio-tvkbrothers.vercel.app"><img src="https://raw.githubusercontent.com/MRakesh8/MRakesh8/main/video.jpg" width="100%" alt="Video Editor Portfolio"/></a>
 <h3>Video Editor Portfolio</h3>
 <p>Dark glassmorphic portfolio for showreels and transitions, with direct contact calls to action.</p>
 <p><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></p>
